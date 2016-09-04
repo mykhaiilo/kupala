@@ -1,0 +1,6 @@
+
+.gitignore
+.idea/
+play.iml
+src/test/java/com/kypala/UserServiceTest.java
+target/
